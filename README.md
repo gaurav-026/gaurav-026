@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gaurav Chakrawarti!
-- 👀 I’m a MERN Stack Developer, UI/UX Designer and Tech Enthusiasts!
-- 🌱 I’m currently learning Low Level Designing.
-- 💞️ I’m looking to collaborate with the Team as well as for a company. 
+- 👀 I’m a Programmer, MERN Stack Developer, UI/UX Designer and Tech Enthusiasts!
+- 🌱 I’m currently looking for a full-time Software Engineer role where I can give a kickstart to my career.
+- 💞️ I’m looking to collaborate with the Team as well as individual as a part of company. 
 - 📫 How to reach me
       Linkedin : www.linkedin.com/in/gaurav-chakrawarti-74567b224
 - 😄 Pronouns: He/Him
